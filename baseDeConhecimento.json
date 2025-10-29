@@ -1,0 +1,234 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "Linguagem de programação fundamental para a web. É a base do desenvolvimento frontend e, com o Node.js, tornou-se dominante também no backend.",
+    "data_criacao": "1995",
+    "link_oficial": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "web"
+    ]
+  },
+  {
+    "nome": "Python",
+    "descricao": "Linguagem de alto nível, versátil e com sintaxe clara, extremamente popular em desenvolvimento web (Django, Flask), Data Science, Machine Learning e automação.",
+    "data_criacao": "1991",
+    "link_oficial": "https://www.python.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "data science",
+      "IA/ML",
+      "automação"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado estaticamente da linguagem JavaScript que compila para JavaScript puro. Essencial em projetos grandes e complexos.",
+    "data_criacao": "2012",
+    "link_oficial": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Java",
+    "descricao": "Linguagem robusta, orientada a objetos, amplamente usada em sistemas empresariais (enterprise), desenvolvimento Android nativo e aplicações de grande escala.",
+    "data_criacao": "1995",
+    "link_oficial": "https://www.java.com/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "enterprise",
+      "Android",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação orientada a objetos desenvolvida pela Microsoft como parte do framework .NET, utilizada para desenvolvimento web (ASP.NET), desktop e jogos (Unity).",
+    "data_criacao": "2000",
+    "link_oficial": "https://dotnet.microsoft.com/languages/csharp",
+    "tags": [
+      "linguagem de programação",
+      ".NET",
+      "backend",
+      "Microsoft",
+      "Unity"
+    ]
+  },
+  {
+    "nome": "SQL",
+    "descricao": "Linguagem padrão para gerenciar e manipular bancos de dados relacionais (PostgreSQL, MySQL, SQL Server), indispensável para qualquer aplicação que use dados estruturados.",
+    "data_criacao": "1974",
+    "link_oficial": "https://pt.wikipedia.org/wiki/SQL",
+    "tags": [
+      "linguagem de consulta",
+      "banco de dados",
+      "relacional",
+      "dados"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript para a construção de interfaces de usuário baseadas em componentes. Líder incontestável no desenvolvimento frontend moderno.",
+    "data_criacao": "2013",
+    "link_oficial": "https://reactjs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "UI/UX",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React full-stack que permite Server-Side Rendering (SSR), Static Site Generation (SSG) e roteamento fácil, ideal para aplicações React escaláveis e performáticas.",
+    "data_criacao": "2016",
+    "link_oficial": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "React",
+      "frontend",
+      "backend",
+      "SSR"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de integração e curva de aprendizado suave.",
+    "data_criacao": "2014",
+    "link_oficial": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Uma plataforma e framework baseada em TypeScript desenvolvida pelo Google para construir grandes aplicações de página única (SPAs).",
+    "data_criacao": "2016",
+    "link_oficial": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "Google"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que facilita a criação, implantação e execução de aplicações usando contêineres, sendo essencial em DevOps e infraestrutura moderna.",
+    "data_criacao": "2013",
+    "link_oficial": "https://www.docker.com/",
+    "tags": [
+      "conteneirização",
+      "DevOps",
+      "virtualização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema open-source para automação de implantação, dimensionamento e gerenciamento de aplicações em contêineres, essencial para orquestração em escala.",
+    "data_criacao": "2014",
+    "link_oficial": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "DevOps",
+      "infraestrutura",
+      "automação"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da Amazon Web Services (AWS) que permite executar código em resposta a eventos sem gerenciar servidores.",
+    "data_criacao": "2014",
+    "link_oficial": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "FaaS",
+      "AWS"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído projetado para lidar com tudo, desde pequenos a grandes projetos com velocidade e eficiência. Essencial para colaboração.",
+    "data_criacao": "2005",
+    "link_oficial": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "colaboração",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional open-source robusto, conhecido por sua conformidade com SQL e extensibilidade.",
+    "data_criacao": "1996",
+    "link_oficial": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "SQL",
+      "relacional",
+      "open source"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos, conhecido por sua flexibilidade e escalabilidade horizontal, muito usado em aplicações web modernas.",
+    "data_criacao": "2009",
+    "link_oficial": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de nuvem de forma declarativa, essencial em ambientes cloud.",
+    "data_criacao": "2014",
+    "link_oficial": "https://www.terraform.io/",
+    "tags": [
+      "IaC",
+      "DevOps",
+      "cloud computing",
+      "HashiCorp"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programação compilada e tipada estaticamente desenvolvida pelo Google, focada em simplicidade, alta performance e concorrência, ideal para microsserviços.",
+    "data_criacao": "2009",
+    "link_oficial": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "sistemas",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna e estaticamente tipada que roda na JVM, muito usada para desenvolvimento Android e como alternativa moderna ao Java no backend.",
+    "data_criacao": "2011",
+    "link_oficial": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "Android",
+      "multiplataforma"
+    ]
+  }
+]
