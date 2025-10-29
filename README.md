@@ -16,13 +16,17 @@ Pré-requisitos
 
 Como executar (resumido)
 1. Instale dependências:
-   ```npm install```
+   ```js
+   npm install
+   ```
 
-2. Crie um arquivo `.env` na raiz com:
+3. Crie um arquivo `.env` na raiz com:
    GEMINI_API_KEY="SUA_CHAVE_AQUI"
 
-3. Execute:
-   ```npm start```
+4. Execute:
+   ```js
+   npm start
+   ```
 
 O que esperar
 - Ao finalizar, o arquivo `baseDeConhecimento.json` será atualizado com as entradas antigas + 25 novas geradas.
